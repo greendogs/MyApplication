@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="8dp"
+    android:layout_marginTop="8dp"
+    android:background="#fff0d490">
+    
+<TextView
+android:paddingLeft="15dp"
+android:paddingRight="15dp"
+android:paddingTop="7dp"
+android:paddingBottom="7dp"
+android:id="@+id/text_target"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="@string/about_text"></TextView>
+
+    </ScrollView>
+
