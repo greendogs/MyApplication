@@ -30,8 +30,8 @@ public class MainActivity extends ActionBarActivity {
                 Intent intent = new Intent(this, About.class);
                 startActivity(intent);
                 return true;
-            case R.id.action_settings:
-                Intent intent2 = new Intent(this, About.class);
+            case R.id.action_map:
+                Intent intent2 = new Intent(this, MapsActivity.class);
                 startActivity(intent2);
                 return true;
             default:

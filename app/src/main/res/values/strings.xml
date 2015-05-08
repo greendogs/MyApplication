@@ -24,5 +24,7 @@ Source Code on GitHub:  <br /> <a href="https://github.com/greendogs">https://gi
 
     <string name="action_about">About</string>
     <string name="title_activity_main_activity2">MainActivity2Activity</string>
+    <string name="title_activity_maps">Map</string>
 
+    <string name="action_map">Map</string>
 </resources>
